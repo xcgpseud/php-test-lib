@@ -1,0 +1,13 @@
+{
+    "name": "xcgpseud/php-test-lib",
+    "description": "A library with helpful testing functionality",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "xcgpseud",
+            "email": "chris.evans92@hotmail.com"
+        }
+    ],
+    "require": {}
+}
